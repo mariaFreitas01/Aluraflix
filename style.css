@@ -3,5 +3,5 @@ body {
     background: rgb(1, 9, 44);
     margin: 0px;
 }
-
-header 
+header { 
+    border: solid 10px pink;
